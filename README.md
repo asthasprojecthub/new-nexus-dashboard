@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ Electrical CRM Dashboard
 
 A full-stack production-ready CRM system for Electrical Panel Manufacturing companies. Manage inquiries, projects, customers, and team — all in one place.
@@ -273,3 +274,6 @@ Open: **http://localhost:3000**
 | High Priority    | Red    |
 | Medium Priority  | Yellow |
 | Low Priority     | Green  |
+=======
+# new-nexus-dashboard
+>>>>>>> 8ddb3aeb65062e2c3f86d5e7aac6bfde2a08255a
